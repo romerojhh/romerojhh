@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- :name_badge: My name is Romero Hutapea (He/Him)
+- :computer: I'm a Computer Engineering major at University of Washington at Seattle with focus on Cybersecurity
+- 🌱 I’m currently learning Android mobile app development with CodePath
+- 👯 I'm really good with circuitry and Arduino programming! HMU if you want to collaborate with me
+- 💬 Ask me about anything through my linkedIn profile! @https://www.linkedin.com/in/romerojhh/
+
+
 <!--
 **MrSaladdd/MrSaladdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
