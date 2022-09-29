@@ -2,8 +2,8 @@
 
 - :name_badge: My name is Romero Hutapea (He/Him)
 - :computer: I'm a Computer Engineering major at University of Washington at Seattle with focus on Mobile Dev and Cybersecurity
-- 🌱 I’m currently an intern at Climate LLC.
-- 👯 I'm really good with FPGA's and Arduino programming! HMU if you want to collaborate with me
+- 🌱 I’m currently looking for a FTE for Software Engineer position
+- 👯 I'm experienced with FPGA's and Arduino programming! HMU if you want to collaborate with me
 - 💬 Ask me about anything through my linkedIn profile! @https://www.linkedin.com/in/romerojhh/
 
 <!--
