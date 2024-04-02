@@ -2,9 +2,10 @@
 
 - :name_badge: My name is Romero Hutapea (He/Him)
 - :computer: I'm a Computer Engineering major graduate from University of Washington at Seattle with a focus on Mobile Dev and Cybersecurity
-- 🌱 I’m currently looking for a FTE for Software Engineer position
+- 🌱 I’m currently a Software Engineer at Bayer
 - 💬 Ask me about anything through my LinkedIn profile! @https://www.linkedin.com/in/romerojhh/
-- 🔭 I’m currently working on creating my own VPN and Web server for my summer project
+- 📫 Check out my website @https://romerojhh.dev/
+- 🔭 I’m currently working on creating RAG/LLM projects
 - ⚡ I’m currently learning LLMs, LangChain, and Generative AI 
 
 
