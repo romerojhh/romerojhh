@@ -5,9 +5,6 @@
 - 🌱 I’m currently a Software Engineer at Bayer
 - 💬 Ask me about anything through my LinkedIn profile! @https://www.linkedin.com/in/romerojhh/
 - 📫 Check out my website @https://romerojhh.dev/
-- 🔭 I’m currently working on creating RAG/LLM projects
-- ⚡ I’m currently learning LLMs, LangChain, and Generative AI 
-
 
 <!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romerojhh&hide=stars&count_private=true&show_icons=true&theme=transparent&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
