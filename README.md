@@ -2,9 +2,9 @@
 
 - :name_badge: My name is Romero Hutapea (He/Him)
 - :computer: I'm a Computer Engineering major graduate from University of Washington at Seattle with a focus on Mobile Dev and Cybersecurity
-- 🌱 I’m currently a Software Engineer at Bayer
+- 🌱 I’m currently a Software Engineer at TikTok
 - 💬 Ask me about anything through my LinkedIn profile! @https://www.linkedin.com/in/romerojhh/
-- 📫 Check out my website @https://romerojhh.dev/
+- 📫 Check out my website @https://portfolio.romerojhh.dev/
 
 <!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romerojhh&hide=stars&count_private=true&show_icons=true&theme=transparent&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
